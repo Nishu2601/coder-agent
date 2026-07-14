@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    MLOps Zoomcamp: A Free 9-Week Course on Productionizing ML Services
+    coder agent demo
 </h1>
 
 <p align="center">
