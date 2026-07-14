@@ -1,3 +1,5 @@
+This is coder-agent file
+
 <p align="center">
   <img width="80%" src="images/banner-2025.jpg" alt="MLOps Zoomcamp">
 </p>
